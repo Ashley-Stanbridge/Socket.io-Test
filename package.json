@@ -1,0 +1,22 @@
+{
+  "name": "socket-chat-example",
+  "version": "1.0.0",
+  "description": "playing with socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashley-Stanbridge/Socket.io-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashley-Stanbridge/Socket.io-Test/issues"
+  },
+  "homepage": "https://github.com/Ashley-Stanbridge/Socket.io-Test#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
